@@ -440,7 +440,7 @@ print(f"导入完成: 成功 {len(results['success'])} 个, 失败 {len(results[
 
 ## 版本信息
 
-- **更新日期**: 2025-10-26
+- **更新日期**: 2024-10-26
 - **版本**: 2.0
 - **作者**: Janis / GitHub Copilot
 
